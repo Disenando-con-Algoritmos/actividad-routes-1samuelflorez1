@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Sneakers Urban",
+        "description": "Zapatillas deportivas cómodas y modernas.",
+        "price": 79.99,
+        "category": "Shoes",
+        "image": "https://picsum.photos/id/1011/400/300",
+        "tags": ["Fashion", "Sport"]
+    },
+    {
+        "id": 2,
+        "name": "Backpack Explorer",
+        "description": "Mochila resistente para viajes y uso diario.",
+        "price": 59.99,
+        "category": "Accessories",
+        "image": "https://picsum.photos/id/1025/400/300",
+        "tags": ["Travel", "Fashion"]
+    },
+    {
+        "id": 3,
+        "name": "Smartwatch Fit",
+        "description": "Reloj inteligente con monitor de salud.",
+        "price": 129.99,
+        "category": "Electronics",
+        "image": "https://picsum.photos/id/1035/400/300",
+        "tags": ["Tech", "Fitness"]
+    },
+    {
+        "id": 4,
+        "name": "Gaming Mouse Pro",
+        "description": "Ratón ergonómico con retroiluminación RGB.",
+        "price": 49.99,
+        "category": "Electronics",
+        "image": "https://picsum.photos/id/1062/400/300",
+        "tags": ["Gaming", "Tech"]
+    },
+    {
+        "id": 5,
+        "name": "Office Chair Comfort",
+        "description": "Silla ergonómica ajustable para oficina.",
+        "price": 199.99,
+        "category": "Furniture",
+        "image": "https://picsum.photos/id/1077/400/300",
+        "tags": ["Office", "Home"]
+    },
+    {
+        "id": 6,
+        "name": "Bluetooth Speaker",
+        "description": "Altavoz portátil con sonido envolvente.",
+        "price": 39.99,
+        "category": "Electronics",
+        "image": "https://picsum.photos/id/1084/400/300",
+        "tags": ["Music", "Portable"]
+    },
+    {
+        "id": 7,
+        "name": "Laptop Stand",
+        "description": "Soporte ajustable para portátiles.",
+        "price": 29.99,
+        "category": "Accessories",
+        "image": "https://picsum.photos/id/1081/400/300",
+        "tags": ["Office", "Tech"]
+    },
+    {
+        "id": 8,
+        "name": "Headphones Max",
+        "description": "Auriculares con cancelación de ruido.",
+        "price": 149.99,
+        "category": "Electronics",
+        "image": "https://picsum.photos/id/1059/400/300",
+        "tags": ["Music", "Tech"]
+    },
+    {
+        "id": 9,
+        "name": "Sunglasses Polar",
+        "description": "Gafas de sol con protección UV400.",
+        "price": 24.99,
+        "category": "Fashion",
+        "image": "https://picsum.photos/id/1005/400/300",
+        "tags": ["Fashion", "Travel"]
+    },
+    {
+        "id": 10,
+        "name": "Desk Lamp LED",
+        "description": "Lámpara con luz ajustable para escritorio.",
+        "price": 34.99,
+        "category": "Furniture",
+        "image": "https://picsum.photos/id/1015/400/300",
+        "tags": ["Home", "Office"]
+    },
+    {
+        "id": 11,
+        "name": "Winter Jacket",
+        "description": "Chaqueta abrigada para clima frío.",
+        "price": 89.99,
+        "category": "Clothing",
+        "image": "https://picsum.photos/id/1022/400/300",
+        "tags": ["Fashion", "Winter"]
+    },
+    {
+        "id": 12,
+        "name": "Coffee Maker",
+        "description": "Cafetera automática con temporizador.",
+        "price": 99.99,
+        "category": "Appliances",
+        "image": "https://picsum.photos/id/1039/400/300",
+        "tags": ["Kitchen", "Appliances"]
+    },
+    {
+        "id": 13,
+        "name": "Wireless Keyboard",
+        "description": "Teclado inalámbrico compacto y silencioso.",
+        "price": 44.99,
+        "category": "Electronics",
+        "image": "https://picsum.photos/id/1043/400/300",
+        "tags": ["Office", "Tech"]
+    },
+    {
+        "id": 14,
+        "name": "Yoga Mat Pro",
+        "description": "Colchoneta antideslizante para yoga y pilates.",
+        "price": 29.99,
+        "category": "Sports",
+        "image": "https://picsum.photos/id/1049/400/300",
+        "tags": ["Fitness", "Wellness"]
+    },
+    {
+        "id": 15,
+        "name": "Smart TV 50”",
+        "description": "Televisor inteligente con 4K UHD.",
+        "price": 399.99,
+        "category": "Electronics",
+        "image": "https://picsum.photos/id/1052/400/300",
+        "tags": ["Tech", "Home"]
+    },
+    {
+        "id": 16,
+        "name": "Running Shoes",
+        "description": "Zapatos ligeros para correr largas distancias.",
+        "price": 69.99,
+        "category": "Shoes",
+        "image": "https://picsum.photos/id/1067/400/300",
+        "tags": ["Sport", "Fitness"]
+    },
+    {
+        "id": 17,
+        "name": "Leather Wallet",
+        "description": "Billetera de cuero genuino.",
+        "price": 39.99,
+        "category": "Accessories",
+        "image": "https://picsum.photos/id/1060/400/300",
+        "tags": ["Fashion", "Classic"]
+    },
+    {
+        "id": 18,
+        "name": "Table Set",
+        "description": "Juego de mesa para comedor de 4 personas.",
+        "price": 299.99,
+        "category": "Furniture",
+        "image": "https://picsum.photos/id/1074/400/300",
+        "tags": ["Home", "Dining"]
+    },
+    {
+        "id": 19,
+        "name": "Electric Kettle",
+        "description": "Hervidor eléctrico rápido y seguro.",
+        "price": 24.99,
+        "category": "Appliances",
+        "image": "data:image/jpeg;base64,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",
+        "tags": ["Kitchen", "Appliances"]
+    },
+    {
+        "id": 20,
+        "name": "Drone Camera",
+        "description": "Drone con cámara HD y control remoto.",
+        "price": 499.99,
+        "category": "Electronics",
+        "image": "https://picsum.photos/id/1056/400/300",
+        "tags": ["Tech", "Photography"]
+    }
+]
